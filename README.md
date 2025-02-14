@@ -1,5 +1,8 @@
-# OIBSIP
-It's a repository for my data science related tasks.
+# Project_on_data-analysis
+hello i Prince Jaiswal welcome's you : "Namaste"
+
+
+It's a repository for my data analysis & science related tasks.
 
 The description of all the tasks is given below:
 
@@ -15,4 +18,4 @@ Task-3: SALES PREDICTION
 
 Sales prediction means predicting how much of a product people will buy based on factors such as the amount you spend to advertise your product, the segment of people you advertise for, or the platform you are advertising on about your product.
 
-Typically, a product and service-based business always need their Data Scientist to predict their future sales with every step they take to manipulate the cost of advertising their product. So let’s start the task of sales prediction with machine learning using Python.
+Typically, a product and service-based business always need their Data Scientist to predict their future sales with every step they take to manipulate the cost of advertising their product. So i started the task of sales prediction with machine learning using Python.
